@@ -1,0 +1,46 @@
+{
+  "restaurant": [
+    {
+      "name": "Sardar Jii",
+      "address": "Bhubaneswar",
+      "mobile": "9874563210",
+      "email": "sardar.ji@gamil.com",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Khate Jao",
+      "address": "Cuttack",
+      "mobile": "9876325410",
+      "email": "khate.jao@gamil.com"
+    },
+    {
+      "id": 3,
+      "name": "Monginis",
+      "address": "Mumbai",
+      "mobile": "9632587410",
+      "email": "Monginis@gamil.com"
+    },
+    {
+      "id": 4,
+      "name": "Hotel Maharaja",
+      "address": "Pune",
+      "mobile": "9512378021",
+      "email": "hotel.maharaja@gamil.com"
+    },
+    {
+      "name": "Green Chillies",
+      "address": "Tankapani Road,BBSR",
+      "mobile": 8123654790,
+      "email": "greenchillies@gmail.com",
+      "id": 6
+    },
+    {
+      "name": "Red Tomatoes",
+      "address": "Cuttack",
+      "mobile": 9898560210,
+      "email": "RedTomatoes1@gmail.com",
+      "id": 7
+    }
+  ]
+}
